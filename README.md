@@ -7,10 +7,11 @@
 
 <p>Actualmente  estoy trabajando en conocimientos nuevos  y practicando mi deporte favorito el Fut boll <br>
 "No te conformes con lo que necesitas; lucha por lo que te mereces ".
-  <img align="center" src="https://img.shields.io/badge/Tik tok-000000?style=for-the-badge&logo=instagram&logoColor=white" 
+  <img align="center" src="https://img.shields.io/badge/Tik tok-000000?style=for-the-badge&logo=tik toklogoColor=white" 
   <a href="https://www.tiktok.com/@ericmura2211?_t=8pckuoGWh6b&_r=1">
   <img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" 
   <img align="center" src="https://img.shields.io/badge/Instagram-000000?style=for-the
   <img align="center" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="ericmura2211@ilcoud.com" />
 </a>
+<img align="center" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="nogabenstudent@gmail.com" /> 
 
