@@ -2,7 +2,7 @@
 <h1> Eric / Ericmura1</h1>
 
 <h2 align="left">Sobre mí:</h2>
-<p>Soy estudiante de pregrado en Ciencias de la Computación no cuento como tal con algun conocimiento en programacion pero me gusta mucho aprender nuevas cosas. Cuento con fuertes habilidades para diversas cosas como para jugar fut boll, tomar fotos y editar videos .</p>
+<p>Soy estudiante de grado superior en Ciencias de la Computación no cuento como tal con algun conocimiento en programacion pero me gusta mucho aprender nuevas cosas. Cuento con fuertes habilidades para diversas cosas como para jugar fut boll, tomar fotos y editar videos .</p>
 <h2></h2>
 
 <p>Actualmente  estoy trabajando en conocimientos nuevos  y practicando mi deporte favorito el Fut boll <br>
